@@ -86,8 +86,9 @@ When the user stops the training, a final window appears calculating **Real-Worl
 | :---: | :---: |
 | ![Episode Improvement 1](11.jpeg) | ![Episode Improvement 2](22.jpeg) |
 | ![Episode Improvement 3](33.jpeg) | ![Episode Improvement 5](55.jpeg) |
-| ![Win Popup with Countdown](44.jpeg) | |
-| ![Final Statistics & Restart](66.jpeg) | |
+|These images capture the grid and the agent's pathfinding evolution as it learns to find the optimal path over several episodes|
+| ![Win Popup with Countdown](44.jpeg) | This shows the "Goal Reached" interface, including the 5-second circular countdown timer and the option to continue training |
+| ![Final Statistics & Restart](66.jpeg) | This is the final "Training Session Complete" window, displaying the Deployment Readiness score and the summary of all episodes |
 
 ---
 
